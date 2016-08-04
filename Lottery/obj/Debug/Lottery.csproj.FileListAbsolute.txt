@@ -1,0 +1,10 @@
+c:\users\bryan\documents\visual studio 2015\Projects\Lottery\Lottery\bin\Debug\Lottery.exe.config
+c:\users\bryan\documents\visual studio 2015\Projects\Lottery\Lottery\bin\Debug\Lottery.exe
+c:\users\bryan\documents\visual studio 2015\Projects\Lottery\Lottery\bin\Debug\Lottery.pdb
+c:\users\bryan\documents\visual studio 2015\Projects\Lottery\Lottery\obj\Debug\Lottery.csprojResolveAssemblyReference.cache
+c:\users\bryan\documents\visual studio 2015\Projects\Lottery\Lottery\obj\Debug\Lottery.Form1.resources
+c:\users\bryan\documents\visual studio 2015\Projects\Lottery\Lottery\obj\Debug\Lottery.Properties.Resources.resources
+c:\users\bryan\documents\visual studio 2015\Projects\Lottery\Lottery\obj\Debug\Lottery.csproj.GenerateResource.Cache
+c:\users\bryan\documents\visual studio 2015\Projects\Lottery\Lottery\obj\Debug\Lottery.exe
+c:\users\bryan\documents\visual studio 2015\Projects\Lottery\Lottery\obj\Debug\Lottery.pdb
+c:\users\bryan\documents\visual studio 2015\Projects\Lottery\Lottery\obj\Debug\Lottery.TicketForm.resources
